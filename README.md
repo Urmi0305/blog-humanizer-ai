@@ -137,6 +137,12 @@ The skill also includes a final "obviously AI generated" audit pass and a second
 - **2.1.0** - Added before/after examples for all 24 patterns
 - **2.0.0** - Complete rewrite based on raw Wikipedia article content
 - **1.0.0** - Initial release
+- ## Credits
+
+This project is based on an open-source humanizer framework.
+
+Original project: https://github.com/blader/humanizer  
+Modified and adapted by Urmi Banerjee
 
 ## License
 
